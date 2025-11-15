@@ -12,5 +12,13 @@
   "type": "commonjs",
   "devDependencies": {
     "typescript": "^5.9.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryDyd/typescript-practices.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaryDyd/typescript-practices/issues"
+  },
+  "homepage": "https://github.com/MaryDyd/typescript-practices#readme"
 }
